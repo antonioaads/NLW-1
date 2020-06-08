@@ -45,4 +45,4 @@ Você pode visualizar o layout do projeto, desenvolvido pela RocketSeat, atravé
 
 ## Observações
 
-Esse repositório possui o código desenvolvido durante a semana NLW da RocketSeat, repositório original do projeto, mostrado nas aulas, disponiveis através [desse link](https://github.com/Rocketseat/nlw-01-booster). 
+Esse repositório possui o código desenvolvido durante a semana NLW da RocketSeat, repositório original do projeto, mostrado nas aulas, disponível através [desse link](https://github.com/Rocketseat/nlw-01-booster). 
